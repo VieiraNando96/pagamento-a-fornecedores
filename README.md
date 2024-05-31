@@ -13,3 +13,6 @@ Funcionalidades:
   1- Formatação de CNPJ/CPF: Garante que os números estejam padronizados e formatados corretamente.
   2- Cálculo de Valores: Inclui cálculos de valores originais, acréscimos, descontos e valores líquidos.
   3- Filtragem e Agrupamento: Filtra dados por período e loja específica, agrupando resultados por diversos campos relevantes.
+
+
+![Resultado Query](https://github.com/VieiraNando96/pagamento-a-fornecedores/assets/170989980/9e4747c2-9fb8-4df1-83cc-67923be152d6)
